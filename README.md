@@ -50,15 +50,3 @@ animation-fill-mode: none|forwards|backwards|both|initial|inherit;
 animation-play-state 动画运行状态, paused or running
 #CSS synax
 animation-play-state: paused|running|initial|inherit;
-
-
-
-
-
-
-
-
-
-
-
-#@keyframes 参考https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp
